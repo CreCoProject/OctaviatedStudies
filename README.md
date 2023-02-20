@@ -16,11 +16,53 @@ by other Sounds. I hope you will been inspired to do work
 like this. So you should beginn a own journey to do
 Controlls of Sounds by other Sounds
 
-Sound Control 
-Octave in Music
-Tape Recording
-Musique Concrete
-Examples of Tape Recorders
+## Sound Control 
+https://en.wikipedia.org/wiki/Open_Sound_Control
+
+https://opensoundcontrol.stanford.edu/
+
+https://www.linuxjournal.com/content/introduction-osc
+
+https://staticz.com/soundcontrol/
+
+https://www.healinghealth.com/sound-control-vs-noise-control/
+
+## Octave in Music
+https://en.wikipedia.org/wiki/Octave
+
+https://www.masterclass.com/articles/music-101-what-is-an-octave
+
+https://www.britannica.com/art/octave-music
+
+https://study.com/academy/lesson/octave-definition-function-examples.html
+
+https://www.musicindustryhowto.com/what-is-an-octave-in-music/
+
+## Tape Recording
+https://en.wikipedia.org/wiki/Tape_recorder
+
+https://www.uaudio.de/blog/analog-tape-recording-basics/
+
+https://www.ebay.de/b/Tape-Recorder/bn_7005754640
+
+https://www.ebay-kleinanzeigen.de/s-berlin/tape-recorder/k0l3331
+
+https://www.easytechjunkie.com/what-is-a-tape-recorder.htm
+
+## Musique Concrete
+https://en.wikipedia.org/wiki/Musique_concr%C3%A8te
+
+https://inagrm.com/fr
+
+http://www.ems-network.org/
+
+https://www.cambridge.org/core/journals/organised-sound
+
+https://www.britannica.com/art/musique-concrete
+
+## Examples of Tape Recorders
+
+
 Play-Back Speed
 Double Half Speed
 Sound-Files 
