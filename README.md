@@ -61,13 +61,78 @@ https://www.cambridge.org/core/journals/organised-sound
 https://www.britannica.com/art/musique-concrete
 
 ## Examples of Tape Recorders
+https://www.amazon.de/cassette-recorder/s?k=cassette+recorder
 
+https://www.amazon.com/tape-recorder/s?k=tape+recorder
 
-Play-Back Speed
-Double Half Speed
-Sound-Files 
-Sinusidual Generators
-low frequency Generators
-high frequency Generators
-Supercollider Kontroll-Rate
-Supercollider Akustik-Rate
+https://shop.die-roehre-frankfurt.de/en/Single-Devices/Tape-recorders/
+
+https://www.etsy.com/market/tape_recorders
+
+https://www.walmart.com/c/kp/tape-recorders
+
+## Play-Back Speed
+https://ell.stackexchange.com/questions/69791/what-is-the-difference-between-play-speed-and-playback-speed
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/playbackRate
+
+https://support.google.com/youtube/answer/7509567?hl=en&co=GENIE.Platform%3DDesktop
+
+https://www.makeuseof.com/why-people-watch-youtube-videos-faster-playback-speeds/
+
+https://www.youtube.com/watch?v=r5NN4S1RKDE
+
+## Double Half Speed
+https://www.youtube.com/watch?v=8tSZM3gjYLE
+
+https://www.yoursoundmatters.com/what-is-half-speed-mastering/
+
+https://www.whathifi.com/features/holy-grail-vinyl-art-half-speed-mastering
+
+https://shop.abbeyroad.com/Vinyl/Half-Speed-Mastered/My-Generation-Half-Speed-Master-Vinyl-Edition/7D5Q17BF1RC
+
+https://www.abbeyroad.com/news/half-speed-remastering-the-classics-2090
+
+## Sound-Files 
+https://freesound.org/
+
+https://pixabay.com/de/sound-effects/
+
+https://artlist.io/sfx
+
+https://www.soundsnap.com/
+
+https://soundbible.com/
+
+## Sinusidual Generators
+https://ccrma.stanford.edu/~jos/pasp/Digital_Sinusoid_Generators.html
+
+https://nest-simulator.readthedocs.io/en/stable/auto_examples/sinusoidal_gamma_generator.html
+
+https://nest-simulator.readthedocs.io/en/latest/auto_examples/sinusoidal_poisson_generator.html
+
+https://www.ti.com/lit/an/sboa550/sboa550.pdf?ts=1676911951383&ref_url=https%253A%252F%252Fwww.google.com%252F
+
+https://www.lehmanns.de/shop/technik/33987136-9783319237121-sinusoidal-oscillators-and-waveform-generators-using-modern-electronic-circuit-building-blocks
+
+## low frequency Generators
+https://doc.sccode.org/Guides/UGens-and-Synths.html
+
+https://doc.sccode.org/Classes/LFPar.html
+
+https://doc.sccode.org/Classes/LFCub.html
+
+https://doc.sccode.org/Classes/LFTri.html
+
+https://doc.sccode.org/Classes/LFSaw.html
+
+## Supercollider Kontroll-Rate
+https://doc.sccode.org/Tutorials/Mark_Polishook_tutorial/08_Rates.html
+
+https://doc.sccode.org/Classes/ControlRate.html
+
+https://depts.washington.edu/dxscdoc/Help/Classes/Control.html
+
+https://www.reddit.com/r/supercollider/comments/p5bshf/how_to_get_control_signal_sample_rate/
+
+https://scsynth.org/t/handling-control-audio-rate-server-side-in-the-calculation-function/3036
